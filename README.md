@@ -99,21 +99,6 @@ Ticket status updated successfully.
 
 ---
 
-## Project Structure
-
-```
-Smart_helpdesk/
-│
-├── main.py          # Program entry & CLI menu
-├── user.py          # User class & authentication
-├── ticket.py        # Ticket class
-├── database.py      # SQLite setup and connection
-├── helpdesk.db      # SQLite database (generated automatically)
-├── README.md        # Project documentation
-└── screenshots/     # Folder for terminal screenshots
-```
-
----
 
 ## Screenshots
 
