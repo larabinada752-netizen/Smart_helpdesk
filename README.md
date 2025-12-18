@@ -117,19 +117,12 @@ Smart_helpdesk/
 
 ## Screenshots
 
-### 1. Create User
-![Create User](screenshots/terminal_create_user.png)
+### 1. terminal_create_ticket_1.png.png
+![Create User](https://github.com/larabinada752-netizen/Smart_helpdesk/blob/c78fe63c403c89040218b4979cdc8ad9618e58dc/terminal_create_ticket_1.png.png)
 
-### 2. Create Ticket
-![Create Ticket](screenshots/terminal_create_ticket.png)
+### 2. terminal_create_ticket_2.png.png
+![Create Ticket](https://github.com/larabinada752-netizen/Smart_helpdesk/blob/c78fe63c403c89040218b4979cdc8ad9618e58dc/terminal_create_ticket_2.png.png)
 
-### 3. View Tickets
-![View Tickets](screenshots/terminal_view_tickets.png)
-
-### 4. Update Ticket Status (Support)
-![Update Status](screenshots/terminal_update_status.png)
-
-> **Note:** Put your actual screenshot images in the `screenshots` folder and make sure the filenames match.
 
 ---
 
